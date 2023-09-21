@@ -1,3 +1,23 @@
 
-Y
-)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+e
+5app/src/main/java/com/pucmm/icc451/UsersAdapter2.java,7/a/7a10e8ac8153ee8a1e22e40aa90ba3f833438950
+\
+,app/src/main/java/com/pucmm/icc451/User.java,0/f/0ff734e25e871bd4a9e471356f1eb5503d594d9f
+d
+4app/src/main/java/com/pucmm/icc451/ListActivity.java,c/8/c89d7da7c569d41aa26e8dd1d033b32f706afaa0
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+f
+6app/src/main/java/com/pucmm/icc451/StudentAdapter.java,b/3/b3acba186193847c603e98243cb0b87a88dd15cd
+_
+/app/src/main/java/com/pucmm/icc451/Student.java,9/1/910fd5398a3a38e16d8ab2957b745bb441a5ef3d
+d
+4app/src/main/java/com/pucmm/icc451/UsersAdapter.java,c/6/c6706b110764f5c300dd7c11a3425ef5808d8e80
+h
+8app/src/main/java/com/pucmm/icc451/RecyclerActivity.java,3/0/30b4feb6b1aea22ed037be2a7f7306242a4ef098
+g
+7app/src/main/java/com/pucmm/icc451/StudentAdapter2.java,7/6/76fe2c1dcf54149da63ff3c3ee991691da6f04dc

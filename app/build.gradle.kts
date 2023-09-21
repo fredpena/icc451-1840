@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.pucmm.myapp"
+    namespace = "com.pucmm.icc451"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.pucmm.myapp"
+        applicationId = "com.pucmm.icc451"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
@@ -29,13 +29,15 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
 }
 
 dependencies {
 
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.8.0")
+    implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("androidx.recyclerview:recyclerview:1.3.1")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")

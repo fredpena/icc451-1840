@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">MyApp</string>
-    <string name="edit_message">Ingrese un mensaje</string>
-    <string name="button_send">Enviar</string>
+    <string name="app_name">ICC451</string>
+    <string name="title_activity_recycler">RecyclerA ctivity</string>
+    <string name="title_activity_list_view">ListView Activity</string>
+
+
 </resources>

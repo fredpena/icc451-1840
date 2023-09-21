@@ -1,4 +1,4 @@
-package com.pucmm.myapp;
+package com.pucmm.icc451;
 
 import org.junit.Test;
 
