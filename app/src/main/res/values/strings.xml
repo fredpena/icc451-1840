@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ICC451</string>
+    <string name="title_activity_recycler">RecyclerA ctivity</string>
+    <string name="title_activity_list_view">ListView Activity</string>
+    <string name="title_activity_room_view">Room View Activity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="add_word">Add</string>
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+
+</resources>
