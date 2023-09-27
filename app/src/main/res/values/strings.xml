@@ -3,6 +3,7 @@
     <string name="title_activity_recycler">RecyclerA ctivity</string>
     <string name="title_activity_list_view">ListView Activity</string>
     <string name="title_activity_room_view">Room View Activity</string>
+    <string name="title_activity_retrofit">Retrofit Activity</string>
     <!-- Strings used for fragments for navigation -->
 
     <string name="add_word">Add</string>

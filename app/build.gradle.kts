@@ -44,6 +44,8 @@ dependencies {
 
     val room_version = "2.5.2"
     val life_cycle_version = "2.6.2"
+    val retrofit_version = "2.9.0"
+    val okhttp3_version = "3.10.0"
 
     // Room components
     implementation("androidx.room:room-runtime:$room_version")
@@ -52,6 +54,13 @@ dependencies {
     // Lifecycle components
     implementation("androidx.lifecycle:lifecycle-viewmodel:$life_cycle_version")
     implementation("androidx.lifecycle:lifecycle-livedata:$life_cycle_version")
+
+    // Retrofit components
+    implementation("com.squareup.retrofit2:retrofit:$retrofit_version")
+    implementation("com.squareup.retrofit2:converter-gson:$retrofit_version")
+    implementation("com.squareup.okhttp3:okhttp:$okhttp3_version")
+    implementation("com.squareup.okhttp3:logging-interceptor:$okhttp3_version")
+    implementation("com.google.code.gson:gson:2.8.9")
 
 
     implementation("androidx.appcompat:appcompat:1.6.1")

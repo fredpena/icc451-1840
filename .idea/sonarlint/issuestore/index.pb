@@ -17,8 +17,6 @@ C
 settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
 @
 build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
-D
-app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
 e
 5app/src/main/java/com/pucmm/icc451/entities/Word.java,9/4/9445f00ddcce91ba1fe2f2e41297431d32d8b705
 d
@@ -29,15 +27,7 @@ k
 ;app/src/main/java/com/pucmm/icc451/data/WordRepository.java,a/c/aca9606d34cfc218cdf191c732df974b7cab8ac5
 m
 =app/src/main/java/com/pucmm/icc451/data/WordRoomDatabase.java,f/0/f0c78d539a0fc4db13339628ccd684e838458f6e
-q
-Aapp/src/main/java/com/pucmm/icc451/adapters/WordListAdapter2.java,d/6/d622aa137eb2a955779d5aec43fba05b557574d7
 g
 7app/src/main/java/com/pucmm/icc451/NewWordActivity.java,b/8/b87923aa57ad8662a74a7e7c3ccb659accee3ed8
-i
-9app/src/main/java/com/pucmm/icc451/RoomViewActivity2.java,c/2/c2d284b3f75aa05d398b9ad824621ea0a884374c
-P
- app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 j
 :app/src/main/java/com/pucmm/icc451/data/WordViewModel.java,d/1/d1e7d5fb38a45fe259faf607d9ad761df639c3a1
-h
-8app/src/main/java/com/pucmm/icc451/RoomViewActivity.java,0/3/0348c36d4a83e71f04690c51c77032922ad1ce13
